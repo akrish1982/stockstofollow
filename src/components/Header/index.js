@@ -14,7 +14,7 @@ function Header() {
 
         <nav className="navbar navbar-opaque navbar-expand-lg navbar-light sticky-top">
             <div className="container-fluid">
-                <NavLink className="navbar-brand brand-opaque" to="#">FaveBall</NavLink>
+                <NavLink className="navbar-brand brand-opaque" to="#">SectorPerformance</NavLink>
                 <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span className="navbar-toggler-icon"></span>
                 </button>

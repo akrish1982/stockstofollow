@@ -10,7 +10,7 @@ function Footer() {
                 <li class="nav-item"><NavLink to="/live" class="px-2 mx-5 text-color-warning">Live</NavLink></li>
                 <li class="nav-item"><NavLink to="/saved" class="px-2 mx-5 text-color-warning">Comparison</NavLink></li>
             </ul>
-            <p class="text-center text-color-warning">© 2023 FaveBall, Inc.</p>
+            <p class="text-center text-color-warning">© 2023 SectorPerformance, Inc.</p>
         </footer>
     )
 }

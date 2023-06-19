@@ -15,7 +15,7 @@ localStorage.setItem('NewsInfo', item.name)}
                 </div>
          <main className="mx-auto my-5 w-100 d-flex flex-column align-items-center justify-content-center h-75">
        
-            <h1>Welcome to FaveBall</h1>
+            <h1>Welcome to SectorPerformance</h1>
                 <hr />
            
          <h3>Keep track of your favourite team and more ...</h3>

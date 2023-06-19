@@ -1,4 +1,4 @@
-# FaveBall [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+# SectorPerformance [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 One page React application for football enthusiasts! Pick your favourite team and keep updated on latest football news.
 To create this application we have joined forces as it is our last EdX Bootcamp project.
 ## Table of content
